@@ -12,3 +12,4 @@ Visualització de les dades diàries de positius, proves PCR, percentatge d'infe
 ## Codi
 
 * [Script d'actualització de les dades](DataUpdate.py)
+* [Funció d'actualització de dades a Google Cloud Platform](main.py)
